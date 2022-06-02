@@ -25,6 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Header 1
+
+ - I have no idea what I am doing.
+ - Thank you for the help
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
